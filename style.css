@@ -40,7 +40,6 @@ img {
     align-items: center;
     justify-content: center;
     margin-top: 50px;
-    border-radius: 30px;
     align-items: center;
 }
 
@@ -502,5 +501,22 @@ height: 100px;
 .hight{
     height: 400px;
 }
+
+.question img {
+    width: 34px;
+    height: 38px
+   
+}
+
+.question h1 {
+    font-size: 40px;
+}
+
+.floar {
+        display: flex;
+        justify-content: space-between;
+        padding-top: 275px;
+        padding-bottom: 30px;
+    }
 
 
