@@ -186,3 +186,13 @@ max.onclick = () => {
 let img1 = document.querySelector('.img1')
 let img2 = document.querySelector('.img2')
 
+let open = document.innerHTML('.question.button')
+
+openWindow.onclick = () => {
+    question.button.style.display = 'flex';
+};
+
+closeWindow.onclick = () => {
+    question.button.style.display = 'none';
+};
+    

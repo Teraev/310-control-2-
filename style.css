@@ -520,3 +520,10 @@ height: 100px;
     }
 
 
+.question button {
+   
+    border: none;
+    background-color: none;
+    opacity: 1;
+}
+
